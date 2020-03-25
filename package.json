@@ -1,6 +1,6 @@
 {
   "name": "@alvarocastro/is-upper-case",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Simple tool to check if a string is uppercase",
   "main": "index.js",
   "scripts": {
