@@ -1,4 +1,4 @@
-# is-uppercase
+# is-upper-case
 [![NPM](https://img.shields.io/npm/v/@alvarocastro/is-upper-case.svg)](https://www.npmjs.com/package/@alvarocastro/is-upper-case)
 [![Build Status](https://travis-ci.com/alvarocastro/is-upper-case.svg?branch=master)](https://travis-ci.com/alvarocastro/is-upper-case)
 [![codebeat badge](https://codebeat.co/badges/fe722930-619a-42b9-9a83-ce23e8dee0f5)](https://codebeat.co/projects/github-com-alvarocastro-is-upper-case-master)
